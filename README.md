@@ -26,7 +26,8 @@ The user requirment had been completed and organised into a doc file. According 
   - Top 10 customers 
 Detais: [User Requirments](https://github.com/tzuyuliu123/Sales-Performance-Dashboard/blob/04020120ab2953654e3ceef2f6684fca6d98f8a8/User%20Requirements.docx)
 ### 2. Dashbaord Wireframe 
-The outline of Dashboard followed these images: [Dashboard Mock outline]()
+The outline of Dashboard followed these images: 
+[Dashboard Mock outline](https://github.com/tzuyuliu123/Sales-Performance-Dashboard/blob/f16890c7e8fb410ef96cb814f82ec00b88f40ba3/mockup.pdf)
 ### 3. Data Model & Preparation 
 - Fact Table: Orders.csv
 - Dimension Tables: Customers.csv, Products.csv, and Location.csv
