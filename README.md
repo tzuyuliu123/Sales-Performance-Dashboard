@@ -26,10 +26,26 @@ The user requirment had been completed and organised into a doc file. According 
   - Top 10 customers 
 Detais: [User Requirments](https://github.com/tzuyuliu123/Sales-Performance-Dashboard/blob/04020120ab2953654e3ceef2f6684fca6d98f8a8/User%20Requirements.docx)
 ### 2. Dashbaord Wireframe 
-
+The outline of Dashboard followed these images: [Dashboard Mock outline]()
 ### 3. Data Model & Preparation 
-Data sources: [Datasets]()
+- Fact Table: Orders.csv
+- Dimension Tables: Customers.csv, Products.csv, and Location.csv
+  
+Data steps include:
+- Data type corrention
+- Relationship setup
+- Creating Calculated fields for YoY comparison and KPIs
+
+Data sources: [Datasets](https://github.com/tzuyuliu123/Sales-Performance-Dashboard/tree/662f0cbb18536522eb80bcaecac0bcf6ac841f7f/datasets)
 ### 4. Visualisation Design 
+1. Sales Dashboard
+   - KPIs figure and Line charts: showing the Mmonthly trends in sale, profit and quantity. 
+   - Bar charts: Compared the sales and profits with product sub-category
+   - Lines charts: showing the weekly slaes and profits trends
+2. Customer Dashboard
+   - KPIs and Line charts: Monthly trends in customers, sales per customer, and orders
+   - Histogram: Customer distribution by orders
+   - Table: Shows the top 10 customers with orders details
 ### 5. Dashborad Preview
 
 ## Tools & Skills  
