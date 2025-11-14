@@ -48,10 +48,13 @@ Data sources: [Datasets](https://github.com/tzuyuliu123/Sales-Performance-Dashbo
    - Histogram: Customer distribution by orders
    - Table: Shows the top 10 customers with orders details
 ### 5. Dashborad Preview
-
+The final look of the dashboard
+/Sreenshots/Customer_Dashboard_screenshot.png
 ## Tools & Skills  
-
-
+- Tableau Desktop
+- Data Modeling & Relationships
+- Dashborad Design
+- BI concepts: Dimensions, Facts, Trends
 ## Key Takeways and Insights
 
 
