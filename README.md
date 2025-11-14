@@ -49,7 +49,7 @@ Data sources: [Datasets](https://github.com/tzuyuliu123/Sales-Performance-Dashbo
    - Table: Shows the top 10 customers with orders details
 ### 5. Dashborad Preview
 The final look of the dashboard
-/Sreenshots/Customer_Dashboard_screenshot.png
+![Sales Dashboard](Sreenshots/Sales_Dashboard_screenshot.png)
 ## Tools & Skills  
 - Tableau Desktop
 - Data Modeling & Relationships
