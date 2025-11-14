@@ -57,5 +57,8 @@ The final look of the dashboard
 - Dashborad Design
 - BI concepts: Dimensions, Facts, Trends
 ## Key Takeways and Insights
-
+- Built a complete BI dashboard from scratch following enterprise workflow
+- Learned to structure dashboards with user experience in mind
+- Implemented advanced Tableau techniques (dual-axis, parameters, custom legends)
+- Practiced documentation and reproducibility for real-world BI projects
 
